@@ -1,1 +1,2 @@
 File prova per repository FrGermano
+Aggiunta di una riga di testo per generare un nuovo commit
