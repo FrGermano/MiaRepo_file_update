@@ -1,3 +1,0 @@
-File prova per repository FrGermano
-Aggiunta di una riga di testo per generare un nuovo commit
-Ulteriore modifica del file per esempio log di procedura
